@@ -1,4 +1,4 @@
-# ML baseline scripts
+# ML baseline notebooks
 
 A collection of example jupyter notebooks to showcase how to establish quick baseline models for various problem types in the context of Kaggle competition datasets.
 Some problem examples include adverserial attacks, classification, regression, word embeddings, etc. using image, text, and tabular data.  
