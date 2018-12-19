@@ -1,0 +1,7 @@
+favorita-grocery-sales-forecasting
+text-normalization-challenge-russian-language
+ultrasound-nerve-segmentation
+nips-2017-non-targeted-adversarial-attack
+instacart-market-basket-analysis
+planet-understanding-the-amazon-from-space
+quora-question-pairs
