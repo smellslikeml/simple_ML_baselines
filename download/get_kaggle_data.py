@@ -16,7 +16,7 @@ for con in contests:
         os.mkdir('data')
         os.mkdir('src')
         os.chdir('data')
-        subprocess.call("kaggle competitions download {}".format(con), shell=True)
+        subprocess.call("kaggle competitions -c download {}".format(con), shell=True)
         os.chdir('../../')
 
     
